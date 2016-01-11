@@ -1,7 +1,7 @@
 name: lildazzle
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.31253
+layout_spectrum: 0.93322
+typography_spectrum: 0.16395
 title: "L'il Dazzle Online Store"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#e30040'
     - '#00afc2'
     - '#ff5a71'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
