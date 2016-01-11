@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lildazzle]]></title>
-        <description><![CDATA[lildazzle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[L'il Dazzle Online Store]]></title>
+        <description><![CDATA[L'il Dazzle Online Store]]></description>
+        <link>https://thegrid.ai/lildazzle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 13:46:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 13:53:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lildazzle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/lildazzle/7314c01d-805d-4b29-b38e-60250f3dba77/index.html</link>
+            <guid isPermaLink="false">7314c01d-805d-4b29-b38e-60250f3dba77</guid>
+            <pubDate>Mon, 11 Jan 2016 13:53:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fabric necklaces that are so lightweight, and amazingly beautiful!  Available in unlimited designs and colours, handmade studded with Swarovski to give you that extra sparkle. Only $25 each.  Send in your enquires today to have yours custom made today.]]></title>
             <description><![CDATA[<article><h1>Fabric necklaces that are so lightweight, and amazingly beautiful!  Available in unlimited designs and colours, handmade studded with Swarovski to give you that extra sparkle. Only $25 each.  Send in your enquires today to have yours custom made today.</h1><p>Quick Summary</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24cb12345d95e25198747e0d9db5c2fa8e3667a6.jpg"></article>]]></description>
-            <link>undefinedlil-dazzle/index.html</link>
+            <link>https://thegrid.ai/lildazzle/lil-dazzle/index.html</link>
             <guid isPermaLink="false">5af23e4f-d2e5-4707-a38b-3ff24949fd85</guid>
             <pubDate>Mon, 11 Jan 2016 13:46:05 GMT</pubDate>
         </item>
